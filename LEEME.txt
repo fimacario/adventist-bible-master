@@ -1,0 +1,15 @@
+ADVENTIST BIBLE MASTER — SITIO WEB
+
+Archivos: index.html, soporte.html, privacidad.html, terminos.html, estilos.css, logo.png.
+
+Para previsualizar: abre index.html en tu navegador.
+
+IMPORTANTE: Google Sites NO permite importar directamente esta web como un sitio editable.
+Para publicarla tal cual, puedes subir estos archivos a un repositorio de GitHub y activar GitHub Pages en Settings > Pages (Deploy from a branch, main / root).
+
+PENDIENTES ANTES DE PUBLICAR:
+1. Confirmar correo/formulario público de soporte y privacidad.
+2. Revisar y aprobar el texto de política de privacidad y términos.
+3. Confirmar información real de tratamiento de datos si cambia la arquitectura del complemento.
+4. Al aprobarse el complemento, reemplazar “Próximamente” por el enlace público definitivo.
+5. Verificar que el diseño del logotipo se use como marca independiente y que no sugiera respaldo oficial.
